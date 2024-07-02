@@ -1,0 +1,9 @@
+[submodule "Generative_AI_with_LLMs"]
+	path = Generative_AI_with_LLMs
+	url = https://github.com/aa-dish/Generative_AI_with_LLMs.git
+[submodule "NLP-with-Attention-models"]
+	path = NLP-with-Attention-models
+	url = https://github.com/aa-dish/NLP-with-Attention-models.git
+[submodule "NLP-Sequence-Model"]
+	path = NLP-Sequence-Model
+	url = https://github.com/aa-dish/NLP-Sequence-Model.git
